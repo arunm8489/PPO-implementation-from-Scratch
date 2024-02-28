@@ -5,7 +5,7 @@ Proximal Policy Optimization (PPO) is an algorithm in the field of reinforcement
 
 
 
-Explanation: https://www.kaggle.com/code/arunmohan003/proximal-policy-optimization-using-pytorch#Implementation-Using-Pytorch
+Explanation: https://www.kaggle.com/code/arunmohan003/proximal-policy-optimization-using-pytorch
 
 To train the agent
 ```
